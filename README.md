@@ -11,7 +11,6 @@ object Alexander {
         return 23
     }
 }
-```
 
 Mi nombre es Alexander, tengo 23 años y estoy cursando el profesorado de matemáticas  y la técnica tura universitaria en programación.
 
